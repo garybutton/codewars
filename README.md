@@ -6,4 +6,4 @@ This repo will serve as a base to store my solutions to the katas presented.
 
 ## Project Structure
 
-- [python3](python3/) - Python 3 katas
+- [python](python/) - Python 3 katas
